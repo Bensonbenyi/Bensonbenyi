@@ -6,8 +6,7 @@
 
 - 🎓 **Education:** Undergraduate, Xiamen University
 - 🔭 **Interest:** AI Agents & LLM Applications
-- 📫 **Email:** `[your-email@example.com]`
-- 📱 **Phone:** `[+86 xxx-xxxx-xxxx]`
+- 📫 **Email:** `[zhengbenhu@163.com]`
 
 ---
 
